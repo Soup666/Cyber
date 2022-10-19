@@ -1,8 +1,0 @@
-# Nmap 7.80 scan initiated Wed Oct 19 03:18:57 2022 as: nmap -sS -oA tnet localhost
-Nmap scan report for localhost (127.0.0.1)
-Host is up (0.0000020s latency).
-Not shown: 999 closed ports
-PORT    STATE SERVICE
-631/tcp open  ipp
-
-# Nmap done at Wed Oct 19 03:18:57 2022 -- 1 IP address (1 host up) scanned in 0.10 seconds

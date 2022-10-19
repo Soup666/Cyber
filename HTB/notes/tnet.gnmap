@@ -1,4 +1,0 @@
-# Nmap 7.80 scan initiated Wed Oct 19 03:18:57 2022 as: nmap -sS -oA tnet localhost
-Host: 127.0.0.1 (localhost)	Status: Up
-Host: 127.0.0.1 (localhost)	Ports: 631/open/tcp//ipp///	Ignored State: closed (999)
-# Nmap done at Wed Oct 19 03:18:57 2022 -- 1 IP address (1 host up) scanned in 0.10 seconds
